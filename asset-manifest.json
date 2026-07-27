@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Agentverse-examscheduleagents/static/css/main.fe829eb3.css",
-    "main.js": "/Agentverse-examscheduleagents/static/js/main.96f315b2.js",
+    "main.css": "/Agentverse-examscheduleagents/static/css/main.6b721fe9.css",
+    "main.js": "/Agentverse-examscheduleagents/static/js/main.755e7771.js",
     "index.html": "/Agentverse-examscheduleagents/index.html",
-    "main.fe829eb3.css.map": "/Agentverse-examscheduleagents/static/css/main.fe829eb3.css.map",
-    "main.96f315b2.js.map": "/Agentverse-examscheduleagents/static/js/main.96f315b2.js.map"
+    "main.6b721fe9.css.map": "/Agentverse-examscheduleagents/static/css/main.6b721fe9.css.map",
+    "main.755e7771.js.map": "/Agentverse-examscheduleagents/static/js/main.755e7771.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe829eb3.css",
-    "static/js/main.96f315b2.js"
+    "static/css/main.6b721fe9.css",
+    "static/js/main.755e7771.js"
   ]
 }
